@@ -1,0 +1,14 @@
+{
+    "name": "henrique/open-pacs",
+    "description": "Open Source Pacs",
+    "type": "project",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Henrique Silva",
+            "email": "henriquensf2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
