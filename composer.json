@@ -8,7 +8,13 @@
             "name": "Henrique Silva",
             "email": "henriquensf2@gmail.com"
         }
+
     ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/Modules"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
